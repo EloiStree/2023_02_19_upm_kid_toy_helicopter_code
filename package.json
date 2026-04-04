@@ -1,6 +1,6 @@
 {
   "name": "be.elab.hellocopter",
-  "displayName": "\ud83e\uddf0,Toy: Copter Demo",
+  "displayName": "\ud83e\uddf0,Toy: Copter",
   "version": "0.0.1",
   "unity": "2018.1",
   "description": "Small demo of how to do a helicopter in Unity3D and draw it.",

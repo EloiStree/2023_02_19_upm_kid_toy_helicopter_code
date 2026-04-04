@@ -31,8 +31,6 @@ public class HelicopterMono : MonoBehaviour
         m_moveDownToUpPercent = Random.Range(-1f, 1f);
     }
 
-
-
     private void Reset()
     {
         m_whatToMove = transform;
